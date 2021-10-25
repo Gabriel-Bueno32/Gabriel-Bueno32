@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gabriel Bueno
+# Hi, I’m Gabriel Bueno 😀
 
 - 👀 I’m studying computer science at UTFPR
 - 🌱 I’m currently learning about Web Developmet
