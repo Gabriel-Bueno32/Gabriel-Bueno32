@@ -7,7 +7,7 @@
   user: "Gabriel Bueno",
   currentEdu: "UTFPR and Rockeatseat",
   hobbies: [
-    "Wathing Anime",
+    "Watching Anime",
     "Playing Games",
     "Studying"]
 }
