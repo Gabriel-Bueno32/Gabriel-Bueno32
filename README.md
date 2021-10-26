@@ -35,6 +35,5 @@ function getCurrentCity() {
   
  [![Gabriel-Bueno32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Bueno32&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Bueno32&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- ![Snake animation](https://github.com/Gabriel-Bueno32/Gabriel-Bueno32/blob/output/github-contribution-grid-snake.svg)
   </div>
 <br>
