@@ -13,7 +13,7 @@
 }
 
 function getCurrentCity() {
-  return Espirito Santo do Pinhal-Brazil
+  return Espirito_Santo_do_Pinhal_Brazil
 }
 ```
 
