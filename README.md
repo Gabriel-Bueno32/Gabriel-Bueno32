@@ -5,7 +5,7 @@
  const WhoAmI = {
   pronous: "he" | "him",
   user: "Gabriel Bueno",
-  currentEdu: "UTFPR and Rockeatseat",
+  currentEdu: "UTFPR",
   hobbies: [
     "Watching Anime",
     "Playing Games",
@@ -13,7 +13,7 @@
 }
 
 function getCurrentCity() {
-  return Espirito_Santo_do_Pinhal_Brazil
+  return Campo_Mourao
 }
 ```
 
