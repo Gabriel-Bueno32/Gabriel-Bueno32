@@ -2,7 +2,7 @@
 
 <p>🔭 Studying at UTFPR.</p>
 <p>📖 Currently learning about <b>HTML, CSS, JavaScript</b></p>
-<p>💬 Ask me about anythhing</p>
+<p>💬 Ask me about anything</p>
 <p>📫 How to reach me? gabrielbueno.g32@gmail.com</p>
 
 #
