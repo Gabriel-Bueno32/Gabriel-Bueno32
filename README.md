@@ -1,24 +1,13 @@
-# Hello There <img src="https://c.tenor.com/z2XXxH7oeUIAAAAi/mialll.gif" alt="bongo cat" width="40" height="40">
+# Hello There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-```javascript
-
- const WhoAmI = {
-  pronous: "he" | "him",
-  user: "Gabriel Bueno",
-  currentEdu: "UTFPR",
-  hobbies: [
-    "Watching Anime",
-    "Playing Games",
-    "Studying"]
-}
-
-function getCurrentCity() {
-  return Campo_Mourao
-}
-```
+<p>🔭 Studying at UTFPR.</p>
+<p>📖 Currently learning about <b>HTML, CSS, JavaScript</b></p>
+<p>💬 Ask me about anythhing</p>
+<p>📫 How to reach me? gabrielbueno.g32@gmail.com</p>
+<br />
 
 #
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
