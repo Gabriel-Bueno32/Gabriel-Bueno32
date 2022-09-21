@@ -3,7 +3,7 @@
 <p>🔭 Studying at UTFPR.</p>
 <p>📖 Currently learning about <b>HTML, CSS, JavaScript</b></p>
 <p>💬 Ask me about anything</p>
-<p>📫 How to reach me? gabrielbueno.g32@gmail.com</p>
+<p>📫 How to reach me? <a href="mailto:gabrielbueno.g32@gmail.com">Gmail</a></p>
 
 #
 <h3 align="left">Languages and Tools: </h3>
