@@ -4,7 +4,6 @@
 <p>📖 Currently learning about <b>HTML, CSS, JavaScript</b></p>
 <p>💬 Ask me about anythhing</p>
 <p>📫 How to reach me? gabrielbueno.g32@gmail.com</p>
-<br />
 
 #
 <h3 align="left">Languages and Tools: </h3>
