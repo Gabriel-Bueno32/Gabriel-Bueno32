@@ -21,6 +21,6 @@
   <a href="https://www.instagram.com/gabriel.rbueno5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:gabrielbueno.g32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-[![Gabriel-Bueno32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Bueno32)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Bueno32)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel-Bueno32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Bueno32&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Bueno32&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
