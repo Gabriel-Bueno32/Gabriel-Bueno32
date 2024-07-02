@@ -15,6 +15,11 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" width="37" alt="html logo"/>
   <img src="https://skillicons.dev/icons?i=css" height="30" width="37" alt="css logo"/>
   <img src="https://skillicons.dev/icons?i=js" height="30" width="37" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="30" width="37" alt="ts logo"/>
+  <img src="https://skillicons.dev/icons?i=react" height="30" width="37" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="37" alt="nodejs logo"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" width="37" alt="nextjs logo"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" width="37" alt="mongodb logo"/>
 </div>
 <br/>
 <div align="center">
